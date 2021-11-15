@@ -1,0 +1,9 @@
+.section-title {
+  width: 60%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 115%;
+  text-align: center;
+  z-index: 1;
+}
